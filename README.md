@@ -9,3 +9,5 @@ The selection of the 3 journals on entrepreneurship is based on the Financial Ti
 For project 2, I will use all the articles titles from the same dataset and do a text mining analysis with Shiny Word Cloud to have a clear view of what are the most common themes in each journal by analyzing each individually and in the field of entrepreneurship by analyzing all titles from the 3 journals together.
 
 Complete report file in Project 2.pdf and Project 2.doc in this same repository.
+Code for Shiny App can be found at Word_Cloud_Project_2.R
+Link to Shiny App https://josecerecedo.shinyapps.io/word_cloud_jacl/
