@@ -7,3 +7,5 @@ The main goal of the ranking is to collect the articles, authors, and the instit
 The selection of the 3 journals on entrepreneurship is based on the Financial Times List and the journals are “Entrepreneurship Theory and Practice”, “Journal of Business Venturing: and “Strategic Entrepreneurship Journal”.
 
 For project 2, I will use all the articles titles from the same dataset and do a text mining analysis with Shiny Word Cloud to have a clear view of what are the most common themes in each journal by analyzing each individually and in the field of entrepreneurship by analyzing all titles from the 3 journals together.
+
+Complete report file in .pdf and .doc 
